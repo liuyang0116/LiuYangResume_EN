@@ -1,7 +1,7 @@
 
 title: My Resume
 url: 'http://webjeda.com'
-baseurl: '/online-cv' #change it according to your repository name
+baseurl: '/LiuYangResume' #change it according to your repository name
 
 
 # Enable one of these styles by removing #
@@ -17,7 +17,7 @@ baseurl: '/online-cv' #change it according to your repository name
 #Profile information
 name: Yang Liu
 tagline: Software Automation Test Engineer
-pic: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+pic: liuyangprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
 email: yang.liu05261@gmail.com
