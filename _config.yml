@@ -15,8 +15,8 @@ baseurl: '/LiuYangResume' #change it according to your repository name
 
 
 #Profile information
-name: Yang Liu
-tagline: Software Automation Test Engineer
+name: 刘洋
+tagline: 软件自动化测试开发
 pic: liuyangprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
