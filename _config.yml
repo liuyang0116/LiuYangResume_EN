@@ -16,7 +16,7 @@ baseurl: '/LiuYangResume' #change it according to your repository name
 
 #Profile information
 name: 刘洋
-tagline: 产品需求分析师
+tagline: 产品业务分析师
 pic: liuyangprofile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
 #sidebar links
